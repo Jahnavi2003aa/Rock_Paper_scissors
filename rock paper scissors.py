@@ -1,3 +1,7 @@
+#first save pictures of paper,rock,scissors from last slide
+#copy the path of the pictures in your laptop/pc
+#paste it at rock_img,paper_img,scissor_img and importantly replace'\'with '/'
+#enjoy the game
 from tkinter import *
 from PIL import Image, ImageTk
 from random import randint
